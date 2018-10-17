@@ -2,17 +2,25 @@ body {
     font-family: Helvetica neue, Arial;
     font-size: 18px;
 }
+
 h1, h2 {
     color: rgb(54, 183, 93);
     font-family: Helvetica neue, Arial;
 }
+
 h1 {
     font-size: 40px;
 }
+
 h2 {
     font-size: 25px;
 }
 
-p {
+.main-text {
     text-align: justify;
 }
+
+.author-text {
+    font-size: 22px;
+}
+
